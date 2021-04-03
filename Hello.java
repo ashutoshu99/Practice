@@ -5,3 +5,5 @@ class Hello
         System.out.println("hello");
     }
 }
+
+// in the child branch
