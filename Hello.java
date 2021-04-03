@@ -6,4 +6,4 @@ class Hello
     }
 }
 
-// in the child branch
+// in the master branch
